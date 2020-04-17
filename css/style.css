@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+* { 
+margin: 0;
+padding: 0;
+}
+
+header{
+	padding: 40px;
+	background-image: url("../images/index_1_street.jpg");
+	background-color: #FF9000;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	line-height: 48px;
+}
+	
+	header h1{
+	text-align: center;
+	color: #B90B00;
+	font-family: 'Spartan', sans-serif;
+	font-size: 70px;
+	margin-left: 46px;
+	text-shadow: 2px 2px 8px black;
+	
+}
+body{ 
+color: #DEB1B1}
+
+	h2{
+	text-align: center;
+	color: #B90B00
+}
+	h3{ 
+	text-align: center;
+	color: #FF9000;
+	
+}
+
+.container{
+	background-color: #faf3f1
+}
+
+
+footer { 
+	background-color: #FF9000;
+}
+.card{
+	align-content: center;
+	
+}
